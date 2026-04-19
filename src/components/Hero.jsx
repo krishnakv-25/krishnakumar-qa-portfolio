@@ -28,7 +28,7 @@ export default function Hero() {
           <div className="mt-8 flex flex-wrap gap-4">
 
             <a
-              href="/krishnakumar-qa-portfolio/resume.pdf"}
+              href="/krishnakumar-qa-portfolio/resume.pdf"
               className="px-6 py-3 rounded-2xl bg-cyan-400 text-slate-950 font-bold hover:scale-105 transition"
             >
               Download Resume
