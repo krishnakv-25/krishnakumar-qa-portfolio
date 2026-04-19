@@ -27,7 +27,7 @@ export default function Hero() {
 
           <div className="mt-8 flex flex-wrap gap-4">
             <a
-              href="/public/resume.pdf"
+              href="/resume.pdf"
               className="px-6 py-3 rounded-2xl bg-cyan-400 text-slate-950 font-bold hover:scale-105 transition"
             >
               Download Resume
@@ -46,7 +46,7 @@ export default function Hero() {
         <div className="flex justify-center">
           <div className="relative">
             <img
-              src="/public/profile.jpg"
+              src="/profile.jpg"
               alt="Krishnakumar V"
               className="w-72 h-72 object-cover rounded-3xl border border-white/10 shadow-2xl"
             />
