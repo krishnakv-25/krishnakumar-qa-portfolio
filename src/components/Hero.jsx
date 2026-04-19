@@ -28,7 +28,7 @@ export default function Hero() {
           <div className="mt-8 flex flex-wrap gap-4">
 
             <a
-              href={process.env.PUBLIC_URL + "/resume.pdf"}
+              href="/krishnakumar-qa-portfolio/resume.pdf"}
               className="px-6 py-3 rounded-2xl bg-cyan-400 text-slate-950 font-bold hover:scale-105 transition"
             >
               Download Resume
@@ -46,7 +46,7 @@ export default function Hero() {
         {/* Right */}
         <div className="flex justify-center">
           <div className="relative">
-            <img src={process.env.PUBLIC_URL + "/profile.jpg"} alt="Krishnakumar V"
+            <img src="/krishnakumar-qa-portfolio/profile.jpg" alt="Krishnakumar V"
               className="w-72 h-72 object-cover rounded-3xl border border-white/10 shadow-2xl"
             />
 
